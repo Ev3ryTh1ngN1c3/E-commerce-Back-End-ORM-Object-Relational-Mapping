@@ -1,5 +1,6 @@
 const { Category } = require('../models');
 
+// array of category data to be inserted into the database
 const categoryData = [
   {
     category_name: 'Shirts',
@@ -18,6 +19,7 @@ const categoryData = [
   },
 ];
 
+// function to seed the categories into the database
 const seedCategories = () => Category.bulkCreate(categoryData);
 
 module.exports = seedCategories;
