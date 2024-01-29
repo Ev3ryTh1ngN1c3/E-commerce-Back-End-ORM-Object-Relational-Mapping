@@ -17,6 +17,7 @@ Tag.init(
     },
     // define the tag_name column as a string type
     tag_name: {
+      allowNull: false,
       type: DataTypes.STRING,
     },
   },
