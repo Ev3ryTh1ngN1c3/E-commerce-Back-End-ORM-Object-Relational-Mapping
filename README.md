@@ -33,6 +33,8 @@
 
   ## Video Demonstration
 
+  https://drive.google.com/file/d/19IsTcJkhVe6F-RaoRQKMSfd2-1lHurgM/view
+
   ## Project Motivation
 
   for an internet retail company <br>
